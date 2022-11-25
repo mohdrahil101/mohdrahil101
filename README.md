@@ -6,6 +6,8 @@
 - Download my Apps: [Google Playstore](https://play.google.com/store/apps/dev?id=6185391641952918099)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdrahil101&show_icons=true&theme=radical)
+<br/> <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrahil101&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
