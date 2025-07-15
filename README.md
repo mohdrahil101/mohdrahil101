@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mohd. Rahil</h1>
-<h3 align="center">Student | Programmer | Web Developer | App Developer</h3>
+<h3 align="center">Student | Programmer | Full Stack Web Developer</h3>
 <img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdnMHhxbWRiaWZ2ZW5xeHN1ZTZnMnhsZ3cyMXg0Z2loZDlxamc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.gif">
 
 - My Portfolio: [https://mohdrahil101.netlify.app](https://mohdrahil101.netlify.app)
